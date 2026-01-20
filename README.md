@@ -3,6 +3,7 @@
 This repository contains a collection of projects focused on Machine Learning, Data Science, and Natural Language Processing.
 
 ### Data Science Projects
+---
 1. **Iris Flower Classification**<br>
 
 **Objective**: To classify Iris flowers into three species (Setosa, Versicolor, and Virginica) based on measurements of sepals and petals.
@@ -36,6 +37,7 @@ This repository contains a collection of projects focused on Machine Learning, D
 **Key Insight**: Optimized the marketing budget by proving that TV advertising has the highest ROI compared to other media.
 
  ### Artificial Intelligence Projects
+ ---
 5. **Mental health Chatbot** <br>
 
 **Objective**: An automated assistant designed to answer common queries on mental health using Natural Language Processing.
